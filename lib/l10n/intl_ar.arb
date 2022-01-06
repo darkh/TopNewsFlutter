@@ -1,0 +1,17 @@
+{
+  "@@last_modified": "2022",
+  "top_news": "اخر الاخبار",
+  "@top_news": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "news_details": "تفاصيل الخبر",
+  "@news_details": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseConnectToTheInternet": "الرجاء الاتصال بالنت",
+  "noImage": "لا يوجد صوره",
+  "noNews": "لا يوجد اخبار",
+  "failedToFetchNews": "خطأ في الإتصال"
+}

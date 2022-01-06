@@ -1,0 +1,17 @@
+{
+  "@@last_modified": "2022",
+  "top_news": "Top News",
+  "@top_news": {
+    "type": "top_news",
+    "placeholders": {}
+  },
+  "news_details": "News Details",
+  "@news_details": {
+    "type": "news_details",
+    "placeholders": {}
+  },
+  "pleaseConnectToTheInternet": "please connect to the internet",
+  "noImage": "No Image",
+  "noNews": "no news",
+  "failedToFetchNews": "failed to fetch news"
+}
