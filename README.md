@@ -37,13 +37,19 @@ Block_test and Mocktail for the unit testing
 
 ## Code Structure
 
-bloc => containe the bloc classes, events , states
-ui => containe the UI elements views and widgets
-model => containe all the data model
-l10n => containe the languages data
-client => containe the Api Client data
-genereted => the genereted classes for the localizations
-test => containes all the test files for the project
+- bloc => containe the bloc classes, events , states
+
+- ui => containe the UI elements views and widgets
+
+- model => containe all the data model
+
+- l10n => containe the languages data
+
+- client => containe the Api Client data
+
+- genereted => the genereted classes for the localizations
+
+- test => containes all the test files for the project
 
 
 
